@@ -1,0 +1,18 @@
+Column,Definition
+season,Id for Season
+pitch_id,Unique Id for Pitch
+release_speed,Pitch velocity reported out-of-hand.
+batter,Player Id tied to the play event.
+pitcher,Player Id tied to the play event.
+description,Description of the resulting pitch.
+stand,Side of the plate batter is standing.
+p_throws,Hand pitcher throws with.
+pitch_type,The type of pitch derived from Statcast.
+balls,Pre-pitch number of balls in count.
+strikes,Pre-pitch number of strikes in count.
+pfx_x,Horizontal movement in feet from the catcher's perspective.
+pfx_z,Vertical movement in feet from the catcher's perpsective.
+plate_x,Horizontal position of the ball when it crosses home plate from the catcher's perspective.
+plate_z,Vertical position of the ball when it crosses home plate from the catcher's perspective.
+sz_top,Top of the batter's strike zone set by the operator when the ball is halfway to the plate.
+sz_bot,Bottom of the batter's strike zone set by the operator when the ball is halfway to the plate.
